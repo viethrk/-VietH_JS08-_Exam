@@ -1,0 +1,17 @@
+{
+  "name": "vieth_js08_exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exercise1": "nodemon ./exercise1/app.js",
+    "exercise2": "nodemon ./exercise2/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
